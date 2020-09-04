@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSRFPoCGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSRFPoCGenerator</output-path>
+    <root id="archive" name="CSRFPoCGenerator.jar">
+      <element id="module-output" name="CSRFPoCGenerator" />
+    </root>
+  </artifact>
+</component>
